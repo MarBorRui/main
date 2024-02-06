@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>DNS Host Enumeration News</title>
+        <description>Latest news and articles on DNS host enumeration</description>
+        <link>https://mipaginawebmbr.com/index.html</link>
+        <item>
+            <title>Artículos en español</title>
+            <link>https://articulossobreenumeraciondehostsatravesdedns.com/espanol.html</link>
+        </item>
+        <item>
+            <title>Artículos en ingles</title>
+            <link>https://dnshostenumerationarticles.com/ingles.html</link>
+        </item>
+    </channel>
+</rss>
